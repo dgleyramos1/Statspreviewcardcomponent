@@ -40,4 +40,4 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Frontend Mentor - [@dgleyramos1](https://www.front//or.io/profile/dgleyramos1)
+- Frontend Mentor - [@dgleyramos1](https://www.frontendmentor.io/profile/dgleyramos1)
