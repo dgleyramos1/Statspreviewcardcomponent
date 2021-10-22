@@ -26,8 +26,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: (https://www.frontendmentor.io/solutions/visualizao-de-estatisticas-tipo-carto-Bb4LuSc9J)
-- URL do site ativo: (https://dgleyramos1.github.io/Statspreviewcardcomponent/)
+- URL da solução: [Solução](https://www.frontendmentor.io/solutions/visualizao-de-estatisticas-tipo-carto-Bb4LuSc9J)
+- URL do site ativo: [Página](https://dgleyramos1.github.io/Statspreviewcardcomponent/)
 
 ## Meu processo
 
