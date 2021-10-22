@@ -1,16 +1,16 @@
 # Frontend Mentor - solução de componente de cartão de visualização de estatísticas
-
-Esta é uma solução para o [desafio do componente do cartão de visualização das estatísticas no Frontend Mentor] (https://www.front Bedor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+ 
+Esta é uma solução para o [desafio do componente do cartão de visualização das estatísticas no Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 ## Índice
 
-- [Visão geral] (# visão geral)
-  - [O desafio] (# o-desafio)
-  - [Captura de tela] (# captura de tela)
-  - [Links] (# links)
-- [Meu processo] (# meu-processo)
-  - [Criado com] (# integrado)
-- [Autor] (# autor)
+- [Visão geral](#-visão-geral)
+  - [O desafio](#-o-desafio)
+  - [Captura de tela](#-captura-de-tela)
+  - [Links](#-links)
+- [Meu processo](#meu-processo)
+  - [Criado com](#integrado)
+- [Autor](#autor)
 
 ## Visão geral
 
@@ -22,7 +22,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-! [] (./images/capture.png)
+![Captura de Tela](./images/capture.png)
 
 ### Links
 
@@ -40,4 +40,4 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Frontend Mentor - [@dgleyramos1] (https://www.front//or.io/profile/dgleyramos1)
+- Frontend Mentor - [@dgleyramos1](https://www.frontendmentor.io/profile/dgleyramos1)
