@@ -12,8 +12,6 @@ Esta é uma solução para o [desafio do componente do cartão de visualização
   - [Criado com] (# integrado)
 - [Autor] (# autor)
 
-** Observação: exclua esta observação e atualize o índice com base nas seções que você mantém. **
-
 ## Visão geral
 
 ### O desafio
@@ -28,8 +26,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui] (https://your-solution-url.com)
-- URL do site ativo: [Adicionar URL do site ativo aqui] (https://your-live-site-url.com)
+- URL da solução: (https://www.frontendmentor.io/solutions/visualizao-de-estatisticas-tipo-carto-Bb4LuSc9J)
+- URL do site ativo: (https://dgleyramos1.github.io/Statspreviewcardcomponent/)
 
 ## Meu processo
 
